@@ -1,0 +1,21 @@
+Regressao linear - 1.5-f)     P1
+dm = abs(m) * (np.sqrt((1/r2 - 1)/(n-2)))
+db = dm * np.sqrt(sxx/n)
+
+Sympy - 2.2-b)     P3
+
+Metodo de Euler    P4
+velocidade - 2.3-c)
+velocidade e posiçao - 2.3-e)
+velocidade, posiçao e aceleraçao - 2.7-d)
+grafico desvio - 2.3-h)
+altura maxima - v(x) = 0
+solo - y(x) = 0
+
+
+
+Achar ponto
+for i in range(n-1):
+    if ((2-dt) < t[i] < (2+dt)):
+        print("dt, t, x =", dt, t[i], x[i])
+
