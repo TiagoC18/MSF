@@ -1,0 +1,9 @@
+v=(30*1000)/(60*60)
+m=75
+yalc=0.004
+A=0.3
+g=9.8
+Cres=0.9
+ro=1.225
+P=yalc*m*g*v+(Cres/2)*A*ro*(v**3)
+print("Potencia = ", P)

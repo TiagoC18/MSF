@@ -1,0 +1,5 @@
+Se E<2J:
+	Movimento periódico:
+		O corpo oscila entre 2 extremos não simétricos em que a posição média não coincide com a posição de equilibrio, ou, a Energia
+		potencial na zona positiva de x, é menor do que na zona negativa, o que faz o corpo passar mais tempo na parte positiva.
+	Pelo movimento ser periódico, usamos o método de Euler-Cromer para integrar a equação diferencial de Newton (valor inicial).
